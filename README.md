@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee%20ji%20su&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20JI%20SU&fontSize=90)
 <!--
 **jisulee42/jisulee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
