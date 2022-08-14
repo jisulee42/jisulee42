@@ -65,7 +65,7 @@ Techs i've used least one <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jisulee42)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs3229)](https://solved.ac/ljs3229/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs3229)](https://solved.ac/ljs3229/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisulee42&show_icons=true&theme=radical)
 
