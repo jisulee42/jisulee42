@@ -4,6 +4,8 @@
 ![matrix](https://user-images.githubusercontent.com/11794584/184528890-6d77e011-d607-421c-9ce4-39d19d242491.gif) -->
 
 <div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisulee42%2Fhit-counter&count_bg=%23EF98D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
 ### 🎮 Backend Developer 🎮
     
@@ -36,9 +38,7 @@
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white"/> 
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>  
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-A8B9CC?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<!-- <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Nodejs&logoColor=white"/> -->
-<!-- <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=ExpressJs&logoColor=white"/> -->
+<img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-A8B9CC?style=for-the-badge&logo=Node.js&logoColor=white"/>     
 <br/>
 
 ### Database
@@ -61,6 +61,7 @@ Techs i've used least one <br/>
 <img alt="Gmail" src 
 ="https://img.shields.io/badge/kibbel1998@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs3229)](https://solved.ac/ljs3229/) </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimasill&show_icons=true&theme=radical)
 
 <br/>
