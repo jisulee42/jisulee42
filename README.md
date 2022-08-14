@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=LEEJISU&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=LEEJISU&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
 
-![matrix](https://user-images.githubusercontent.com/11794584/184528890-6d77e011-d607-421c-9ce4-39d19d242491.gif)
+![matrix](https://user-images.githubusercontent.com/11794584/184528890-6d77e011-d607-421c-9ce4-39d19d242491.gif) -->
 
 <div align="center">
     
