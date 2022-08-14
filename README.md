@@ -48,6 +48,11 @@
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-4169E1?style=for-the-badge&logo=SQLite&logoColor=white"/> 
 <img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft Access-A4373A?style=for-the-badge&logo=Microsoft Access&logoColor=white"/> </br>
 
+### Cooperation Tool
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+
 Techs i've used least one <br/> 
 
 
