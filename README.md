@@ -54,15 +54,18 @@ Techs i've used least one <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisulee42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
+
 ## 🌹 It's Me 🌹
-<a href = "https://github.com/kimasill"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+<a href = "https://github.com/jisulee42"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://kimasill.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
 </a> <a href = "https://instagram.com/kimasill"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <img alt="Gmail" src 
-="https://img.shields.io/badge/kibbel1998@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+="https://img.shields.io/badge/leejisu1584@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs3229)](https://solved.ac/ljs3229/) </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimasill&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jisulee42)](https://github.com/ryo-ma/github-profile-trophy)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs3229)](https://solved.ac/ljs3229/) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisulee42&show_icons=true&theme=radical)
 
 <br/>
 
