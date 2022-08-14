@@ -63,11 +63,9 @@ Techs i've used least one <br/>
 ="https://img.shields.io/badge/leejisu1584@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jisulee42)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs3229)](https://solved.ac/ljs3229/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisulee42&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jisulee42)](https://github.com/ryo-ma/github-profile-trophy) <br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs3229)](https://solved.ac/ljs3229/) <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisulee42&show_icons=true&theme=radical)<br/>
 
 <br/>
 
