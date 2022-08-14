@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=LEEJISU&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
 
-<img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>
+![matrix](https://user-images.githubusercontent.com/11794584/184528890-6d77e011-d607-421c-9ce4-39d19d242491.gif)
 
 <div align="center">
     
