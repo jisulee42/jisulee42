@@ -4,8 +4,6 @@
 ![matrix](https://user-images.githubusercontent.com/11794584/184528890-6d77e011-d607-421c-9ce4-39d19d242491.gif) -->
 
 <div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisulee42%2Fhit-counter&count_bg=%23EF98D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
 ## 🎮 Backend Developer 🎮
     Hi there! I'm student of KIT.  
