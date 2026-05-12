@@ -1,30 +1,82 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E0EAFC,100:CFDEF3&height=160&section=header&text=jisulee42&fontSize=44&fontColor=2B2B2B&fontAlignY=40&desc=quiet%20code%2C%20steady%20growth&descSize=14&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:374151&height=200&section=header&text=Derek%20Lee&fontSize=56&fontColor=F9FAFB&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Building%20reliable%20services&descSize=15&descAlignY=62&descAlignColor=D1D5DB)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=900&color=666666&center=true&vCenter=true&width=420&lines=Building+small+things+well.;One+commit+at+a+time.)](https://github.com/jisulee42)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=9CA3AF&center=true&vCenter=true&width=560&lines=Building+small+things+well.;One+commit+at+a+time.;Curious+about+AI+agents+%26+developer+tooling.)](https://github.com/jisulee42)
 
 </div>
 
-### About
+---
 
-- 한 줄 소개를 여기에 적어주세요
-- 관심사: _interests_
-- 📫 _email or link_
+### 👋 About
 
-### Stats
+Backend Developer · Building reliable services and developer tooling.
+
+- 🔭 **Currently:** AI agent harness, internal devtools
+- 🌱 **Exploring:** NestJS internals, agent frameworks
+- 📫 **Reach me:** derek.lee@onda.me
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,python,java,mongodb,mysql,postgres,redis,docker,aws,git,linux,vscode&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jisulee42&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&card_width=420&icon_color=666666&text_color=2B2B2B&title_color=2B2B2B&bg_color=FAFAFA" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisulee42&layout=compact&hide_border=true&langs_count=8&card_width=320&text_color=2B2B2B&title_color=2B2B2B&bg_color=FAFAFA" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisulee42&theme=github_dark" width="98%" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jisulee42&theme=github_dark&exclude=jupyter%20notebook" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jisulee42&theme=github_dark" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jisulee42&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jisulee42&theme=github_dark&utcOffset=9" />
 
 </div>
 
-### Streak
+---
+
+### 🔥 Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jisulee42&hide_border=true&background=FAFAFA&stroke=EAEAEA&ring=666666&fire=666666&currStreakLabel=2B2B2B&sideLabels=2B2B2B&currStreakNum=2B2B2B&sideNums=2B2B2B&dates=999999" />
+<img src="https://streak-stats.demolab.com?user=jisulee42&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=F9FAFB&sideLabels=F9FAFB&currStreakNum=F9FAFB&sideNums=F9FAFB&dates=8B949E" />
 
 </div>
+
+---
+
+### 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jisulee42&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F9FAFB&area=true" width="98%" />
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jisulee42&theme=onedark&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+### 🔗 Links
+
+- 🌐 Blog · [jisulee42.github.io](https://jisulee42.github.io)
+- 💼 GitHub · [@jisulee42](https://github.com/jisulee42)
+
+<br />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:1F2937&height=100&section=footer)
