@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Derek%20Lee&fontSize=62&fontColor=F9FAFB&fontAlignY=40&desc=Backend%20Developer%20%E2%80%A2%20Crafting%20reliable%20services&descSize=16&descAlignY=66&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Derek%20Lee&fontSize=62&fontColor=F9FAFB&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Crafting%20reliable%20services&descSize=16&descAlignY=66&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=580&lines=Building+small+things+well.;One+commit+at+a+time.;Curious+about+AI+agents+%26+developer+tooling.)](https://github.com/jisulee42)
 
@@ -10,7 +10,7 @@
 
 ### 👋 About
 
-Backend Developer · Building reliable services and developer tooling.
+Software Engineer · Building reliable services and developer tooling.
 
 - 🔭 **Currently:** AI agent harness, internal devtools
 - 🌱 **Exploring:** NestJS internals, agent frameworks
