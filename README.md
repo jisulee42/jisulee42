@@ -62,21 +62,7 @@ Backend Developer · Building reliable services and developer tooling.
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jisulee42&theme=onedark&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
 ### 🔗 Links
 
 - 🌐 Blog · [jisulee42.github.io](https://jisulee42.github.io)
 - 💼 GitHub · [@jisulee42](https://github.com/jisulee42)
-
-<br />
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:1F2937&height=100&section=footer)
