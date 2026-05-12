@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:374151&height=200&section=header&text=Derek%20Lee&fontSize=56&fontColor=F9FAFB&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Building%20reliable%20services&descSize=15&descAlignY=62&descAlignColor=D1D5DB)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Derek%20Lee&fontSize=62&fontColor=F9FAFB&fontAlignY=40&desc=Backend%20Developer%20%E2%80%A2%20Crafting%20reliable%20services&descSize=16&descAlignY=66&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=9CA3AF&center=true&vCenter=true&width=560&lines=Building+small+things+well.;One+commit+at+a+time.;Curious+about+AI+agents+%26+developer+tooling.)](https://github.com/jisulee42)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=580&lines=Building+small+things+well.;One+commit+at+a+time.;Curious+about+AI+agents+%26+developer+tooling.)](https://github.com/jisulee42)
 
 </div>
 
