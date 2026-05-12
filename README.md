@@ -46,7 +46,7 @@ Backend Developer · Building reliable services and developer tooling.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jisulee42&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=F9FAFB&sideLabels=F9FAFB&currStreakNum=F9FAFB&sideNums=F9FAFB&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=jisulee42&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=F9FAFB&sideLabels=F9FAFB&currStreakNum=F9FAFB&sideNums=F9FAFB&dates=8B949E&v=20260512" />
 
 </div>
 
@@ -56,7 +56,7 @@ Backend Developer · Building reliable services and developer tooling.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jisulee42&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F9FAFB&area=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jisulee42&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F9FAFB&area=true&v=20260512" width="98%" />
 
 </div>
 
