@@ -46,7 +46,7 @@ Software Engineer · Building reliable services and developer tooling.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jisulee42&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=F9FAFB&sideLabels=F9FAFB&currStreakNum=F9FAFB&sideNums=F9FAFB&dates=8B949E&v=20260512" />
+<img src="./github-metrics.svg" width="98%" />
 
 </div>
 
