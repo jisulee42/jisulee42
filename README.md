@@ -28,7 +28,16 @@ Software Engineer · Building reliable services and developer tooling.
 
 <img src="./github-metrics.svg" width="98%" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jisulee42&theme=github_dark" />
+</div>
+
+---
+
+### 🧪 Languages
+
+<div align="center">
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jisulee42&theme=monokai" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jisulee42&theme=monokai&exclude=jupyter%20notebook" />
 
 </div>
 
@@ -38,7 +47,7 @@ Software Engineer · Building reliable services and developer tooling.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jisulee42&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F9FAFB&area=true&v=20260518" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jisulee42&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=F9FAFB&area=true&area_color=A78BFA&v=20260518a" width="98%" />
 
 </div>
 
