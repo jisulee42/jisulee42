@@ -47,7 +47,7 @@ Software Engineer · Building reliable services and developer tooling.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jisulee42&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=F9FAFB&area=true&area_color=A78BFA&v=20260518a" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jisulee42&theme=github-compact&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=F9FAFB&area=true&area_color=A78BFA&v=20260518b" width="98%" />
 
 </div>
 
