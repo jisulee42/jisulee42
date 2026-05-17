@@ -32,17 +32,6 @@ Software Engineer · Building reliable services and developer tooling.
 
 ---
 
-### 🧪 Languages
-
-<div align="center">
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jisulee42&theme=monokai" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jisulee42&theme=monokai&exclude=jupyter%20notebook" />
-
-</div>
-
----
-
 ### 📈 Activity
 
 <div align="center">
