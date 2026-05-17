@@ -26,7 +26,11 @@ Software Engineer · Building reliable services and developer tooling.
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="70%" />
+<img src="./github-metrics-calendar.svg" width="70%" />
+
+<br /><br />
+
+<img src="./github-metrics-languages.svg" width="70%" />
 
 </div>
 
