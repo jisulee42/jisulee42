@@ -53,3 +53,9 @@ Software Engineer · Building reliable services and developer tooling.
 
 - 🌐 Blog · [jisulee42.github.io](https://jisulee42.github.io)
 - 💼 GitHub · [@jisulee42](https://github.com/jisulee42)
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer)
+
+</div>
