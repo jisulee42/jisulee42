@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Derek%20Lee&fontSize=62&fontColor=F9FAFB&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Crafting%20reliable%20services&descSize=16&descAlignY=66&animation=fadeIn)
 
+<img src="https://komarev.com/ghpvc/?username=jisulee42&label=Profile%20views&color=A78BFA&style=flat" alt="profile views" />
+
 </div>
 
 ### 👋 About
