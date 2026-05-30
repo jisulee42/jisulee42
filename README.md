@@ -12,6 +12,7 @@ Software Engineer · Building reliable services and developer tooling.
 
 - 🔭 **Currently:** AI agent harness, internal devtools
 - 🌱 **Exploring:** NestJS internals, agent frameworks
+- ⚡ **Focus:** Type-safe, well-tested, maintainable systems
 - 📫 **Contact:** derek.lee@onda.me
 
 ---
