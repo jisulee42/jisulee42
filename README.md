@@ -29,6 +29,10 @@ Software Engineer · Building reliable services and developer tooling.
 
 <div align="center">
 
+<a href="https://github.com/TOKENPHAGE"><img src="https://api.tokenphage.com/badge/jisulee42?theme=gpu&amp;mode=dark" alt="TokenPhage token usage" /></a>
+
+<br />
+
 <img src="./github-metrics-calendar.svg" width="70%" />
 
 <br />
@@ -53,6 +57,7 @@ Software Engineer · Building reliable services and developer tooling.
 
 - 🌐 Blog · [jisulee42.github.io](https://jisulee42.github.io)
 - 💼 GitHub · [@jisulee42](https://github.com/jisulee42)
+- 🧬 TokenPhage · [@TOKENPHAGE](https://github.com/TOKENPHAGE) — AI 코딩 도구 토큰 사용량 배지
 
 <div align="center">
 
